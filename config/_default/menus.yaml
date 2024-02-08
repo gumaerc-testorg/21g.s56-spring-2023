@@ -1,0 +1,26 @@
+leftnav:
+- identifier: 047517b3-c80c-4739-bcb9-653a83c32606
+  name: "\u30B7\u30E9\u30D0\u30B9"
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: ddfe3d99-d784-4ece-8b3b-9ad54f852bd8
+  name: "\u30EC\u30C3\u30B9\u30F3"
+  pageRef: /pages/lessons
+  weight: 20
+- identifier: e85d149c-5426-4653-bd2c-834d7e04ddc6
+  name: "\u6587\u6CD5\u30CE\u30FC\u30C8"
+  pageRef: /lists/grammar-notes-resource-list
+  weight: 30
+- identifier: 9cbb691a-829b-4a23-8003-779661e2aa26
+  name: "\u6F22\u5B57\u306E\u52C9\u5F37"
+  pageRef: /pages/kanji-study-guide
+  weight: 40
+- identifier: 4b1eb1df-e4d0-4aab-92a8-e341f091a23e
+  name: "\u65E5\u672C\u8A9E\u306E\u52C9\u5F37\u306B\u5F79\u7ACB\u3064\u30C4\u30FC\u30EB\
+    \u3068\u304B\u6559\u6750"
+  pageRef: /pages/related-resources
+  weight: 50
+- identifier: f0ca9409-c3e9-4d98-ab75-5a83368ed831
+  name: "\u6587\u5316\u30CE\u30FC\u30C8"
+  pageRef: /pages/culture-notes
+  weight: 60
