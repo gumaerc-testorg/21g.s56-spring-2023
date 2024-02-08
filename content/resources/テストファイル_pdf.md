@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT Japanese VI Tobira Lesson 7 Culture Notes
+title: "\u30C6\u30B9\u30C8\u30D5\u30A1\u30A4\u30EB"
 uid: ffc1bd14-59de-43f6-833c-b5a46e885e3a
 video_files:
   archive_url: ''
