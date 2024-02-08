@@ -24,3 +24,7 @@ leftnav:
   name: "\u6587\u5316\u30CE\u30FC\u30C8"
   pageRef: /pages/culture-notes
   weight: 60
+- identifier: ffc1bd14-59de-43f6-833c-b5a46e885e3a
+  name: "\u30C6\u30B9\u30C8\u30D5\u30A1\u30A4\u30EB"
+  pageRef: "/resources/\u30C6\u30B9\u30C8\u30D5\u30A1\u30A4\u30EB_pdf"
+  weight: 70
