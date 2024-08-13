@@ -11,20 +11,20 @@ leftnav:
   name: "\u6587\u6CD5\u30CE\u30FC\u30C8"
   pageRef: /lists/grammar-notes-resource-list
   weight: 30
+- identifier: 69229ecb-1e9c-411d-b1ad-e06ab63cc275
+  name: "\u6587\u6CD5\u30D3\u30C7\u30AA"
+  pageRef: /video_galleries/grammar-lecture-videos
+  weight: 40
 - identifier: 9cbb691a-829b-4a23-8003-779661e2aa26
   name: "\u6F22\u5B57\u306E\u52C9\u5F37"
   pageRef: /pages/kanji-study-guide
-  weight: 40
+  weight: 50
 - identifier: 4b1eb1df-e4d0-4aab-92a8-e341f091a23e
   name: "\u65E5\u672C\u8A9E\u306E\u52C9\u5F37\u306B\u5F79\u7ACB\u3064\u30C4\u30FC\u30EB\
     \u3068\u304B\u6559\u6750"
   pageRef: /pages/related-resources
-  weight: 50
+  weight: 60
 - identifier: f0ca9409-c3e9-4d98-ab75-5a83368ed831
   name: "\u6587\u5316\u30CE\u30FC\u30C8"
   pageRef: /pages/culture-notes
-  weight: 60
-- identifier: ffc1bd14-59de-43f6-833c-b5a46e885e3a
-  name: "\u30C6\u30B9\u30C8\u30D5\u30A1\u30A4\u30EB"
-  pageRef: "/resources/\u30C6\u30B9\u30C8\u30D5\u30A1\u30A4\u30EB_pdf"
   weight: 70

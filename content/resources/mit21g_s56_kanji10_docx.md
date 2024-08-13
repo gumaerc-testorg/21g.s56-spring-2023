@@ -2,9 +2,9 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/21g-s56-japanese-vi-spring-2023/mit21g_s56_grammar_lesson06.pdf
-file_size: 4458333
-file_type: application/pdf
+file: /courses/21g-s56-japanese-vi-spring-2023/mit21g_s56_kanji10.docx
+file_size: 19797
+file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 image_metadata:
   caption: ''
   credit: ''
@@ -13,8 +13,8 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT 21G.S56 Japanese VI Tobira Grammar in Lesson 6
-uid: de96837f-5be1-4b11-89a7-b32479b1ef9c
+title: MIT 21G.S56 Japanese VI Tobira Kanji in Lesson 10
+uid: 6423eff6-d24d-4545-816f-748e796e5ae8
 video_files:
   archive_url: ''
   video_captions_file: ''
