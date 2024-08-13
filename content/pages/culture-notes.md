@@ -30,7 +30,7 @@ uid: f0ca9409-c3e9-4d98-ab75-5a83368ed831
 
 [狂言「ぶす」のアニメ](https://www.youtube.com/watch?v=wdOUBI013eU)
 
-[歌舞伎（かぶき）](https://www.youtube.com/watch?v=bSTBFNPmloE)
+歌舞伎（かぶき）
 
 ## Lesson 9: 日本人のジェスチャー 
 
