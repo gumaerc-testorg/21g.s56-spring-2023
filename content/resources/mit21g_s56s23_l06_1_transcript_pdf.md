@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/21g-s56-japanese-vi-spring-2023/mit21g_s56s23_l06_1_transcript.pdf
+file: /ol-ocw-studio-app/courses/21g-s56-japanese-vi-spring-2023/mit21g_s56s23_l06_1_transcript.pdf
 file_size: 56145
 file_type: application/pdf
 image_metadata:
