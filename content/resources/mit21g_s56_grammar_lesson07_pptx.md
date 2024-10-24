@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/21g-s56-japanese-vi-spring-2023/mit21g_s56_grammar_lesson07.pptx
+file: /ol-ocw-studio-app/courses/21g-s56-japanese-vi-spring-2023/mit21g_s56_grammar_lesson07.pptx
 file_size: 8753407
 file_type: application/vnd.openxmlformats-officedocument.presentationml.presentation
 image_metadata:

@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/21g-s56-japanese-vi-spring-2023/mit21g_s56_kanji09.docx
+file: /ol-ocw-studio-app/courses/21g-s56-japanese-vi-spring-2023/mit21g_s56_kanji09.docx
 file_size: 18741
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 image_metadata:
