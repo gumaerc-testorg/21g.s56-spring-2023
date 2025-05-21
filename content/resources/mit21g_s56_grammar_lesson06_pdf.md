@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/21g-s56-japanese-vi-spring-2023/mit21g_s56_grammar_lesson06.pdf
+file: courses/japanese-vi/mit21g_s56_grammar_lesson06.pdf
 file_size: 4458333
 file_type: application/pdf
 image_metadata:
