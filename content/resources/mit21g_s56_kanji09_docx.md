@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/japanese-vi/mit21g_s56_kanji09.docx
+file: /ol-ocw-studio-app/courses/21g-s56-japanese-vi-spring-2023/mit21g_s56_kanji09.docx
 file_size: 18741
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Editable Files
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: MIT 21G.S56 Japanese VI Tobira Kanji in Lesson 09
@@ -21,6 +21,7 @@ video_files:
   video_thumbnail_file: ''
   video_transcript_file: ''
 video_metadata:
+  source: ''
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
