@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/japanese-vi/mit21g_s56_s23.jpg
+file: /ol-ocw-studio-app/courses/21g-s56-japanese-vi-spring-2023/mit21g_s56_s23.jpg
 file_size: 838468
 file_type: image/jpeg
 image_metadata:
