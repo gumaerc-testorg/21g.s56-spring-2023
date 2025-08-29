@@ -24,6 +24,7 @@
   },
   "course_title": "Japanese VI",
   "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "This is an experimental version of 21G.506, which offers a combination of in-person and synchronous remote instruction. It aims to achieve simultaneous progression of four skills\u2014listening, speaking, reading, and writing. It immerses students in various aspects of Japanese culture through authentic everyday Japanese media.",
   "department_numbers": [
     "21G"
@@ -37,8 +38,10 @@
   "learning_resource_types": [
     "Lecture Notes",
     "Video Materials",
-    "Online Textbook"
+    "Open Textbooks",
+    "Editable Files"
   ],
   "site_uid": "f9a4ef9a-c8a3-4407-a191-a4bef95c3757",
-  "site_short_id": "21g.s56-spring-2023"
+  "site_short_id": "21g.s56-spring-2023",
+  "site_url_path": "courses/21g-s56-japanese-vi-spring-2023"
 }
