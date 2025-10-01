@@ -6,10 +6,10 @@ file: /ol-ocw-studio-app/courses/21g-s56-japanese-vi-spring-2023/mit21g_s56_s23.
 file_size: 838468
 file_type: image/jpeg
 image_metadata:
-  caption: A bustling street in Tokyo at night. (Image courtesy of [Trey Ratcliff](https://www.flickr.com/photos/stuckincustoms/4921849287/in/album-72157622598602597/).
-    License CC BY-NC-SA.)
-  credit: Image courtesy of [Trey Ratcliff](https://www.flickr.com/photos/stuckincustoms/4921849287/in/album-72157622598602597/).
-    License CC BY-NC-SA
+  caption: A bustling street in Tokyo at night. (Image courtesy of {{% resource_link
+    "a91965c4-9f0c-4072-9a0a-af793f4a85d5" "Trey Ratcliff" %}}. License CC BY-NC-SA.)
+  credit: Image courtesy of {{% resource_link "a91965c4-9f0c-4072-9a0a-af793f4a85d5"
+    "Trey Ratcliff" %}}. License CC BY-NC-SA
   image-alt: Street scene at night from Japan
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -27,4 +27,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-A bustling street in Tokyo at night (Image courtesy of [Trey Ratcliff](https://www.flickr.com/photos/stuckincustoms/4921849287/in/album-72157622598602597/). License CC BY-NC-SA).
+A bustling street in Tokyo at night (Image courtesy of {{% resource_link "a91965c4-9f0c-4072-9a0a-af793f4a85d5" "Trey Ratcliff" %}}. License CC BY-NC-SA).

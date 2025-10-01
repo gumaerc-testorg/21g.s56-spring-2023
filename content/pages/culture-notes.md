@@ -8,15 +8,15 @@ uid: f0ca9409-c3e9-4d98-ab75-5a83368ed831
 ---
 ## 文化ノート
 
-\[T\] = Mayumi Oka et al., [Tobira: Gateway to Advanced Japanese Learning through Content and Multimedia](https://tobiraweb.9640.jp/), Kurosio Publishing (2009).
+\[T\] = Mayumi Oka et al., {{% resource_link "a4b67153-bd80-4db7-8489-a6aa6d7f0a75" "Tobira: Gateway to Advanced Japanese Learning through Content and Multimedia" %}}, Kurosio Publishing (2009).
 
 ## Lesson 6: 日本の色々な迷信 (めいしん) 
 
 \[T\] p. 149
 
-日本にはたくさん迷信があります。例えば、[このサイト](https://idea1616.com/meishin/)を見てみてください。
+日本にはたくさん迷信があります。例えば、{{% resource_link "a3d8c2dd-3b8a-4c56-8b25-288779ac390e" "このサイト" %}}を見てみてください。
 
-それから、[この YouTube](https://www.youtube.com/watch?v=uENjJEr3HKA) も見てみましょう！（N3 のレベルで分かります）
+それから、{{% resource_link "a6b8eef6-f2f1-4c58-9d3d-3fb2f5904715" "この YouTube" %}} も見てみましょう！（N3 のレベルで分かります）
 
 ## Lesson 7: 手塚治虫（てづかおさむ）
 
@@ -24,11 +24,11 @@ uid: f0ca9409-c3e9-4d98-ab75-5a83368ed831
 
 ## Lesson 8: 日本の伝統芸能
 
-[能（のう）](https://www.youtube.com/watch?v=Qjlg9ov34Y4)
+{{% resource_link "ca7cdb27-b673-4c31-9f89-6103810f04a9" "能（のう）" %}}
 
-[狂言（きょうげん)](https://www.youtube.com/watch?v=u_NVFgKf_78)
+{{% resource_link "a757b460-ee06-49a4-9cbb-6fc4962c785b" "狂言（きょうげん)" %}}
 
-[狂言「ぶす」のアニメ](https://www.youtube.com/watch?v=wdOUBI013eU)
+{{% resource_link "2b4a022a-741a-43bc-a5e0-b8335fd81948" "狂言「ぶす」のアニメ" %}}
 
 歌舞伎（かぶき）
 
