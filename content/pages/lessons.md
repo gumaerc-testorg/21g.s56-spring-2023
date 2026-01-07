@@ -8,26 +8,26 @@ uid: ddfe3d99-d784-4ece-8b3b-9ad54f852bd8
 ---
 ## レッスン
 
-今学期は、「とびら」の第６課から第１０課まで勉強します。とびらのホームページは、{{% resource_link "a4b67153-bd80-4db7-8489-a6aa6d7f0a75" "ここ" %}}です。文法練習問題は、{{% resource_link "c581b403-94c1-4210-948a-721d6dc59bb3" "ここ" %}}からダウンロードできます。{{% resource_link "bdb2caa2-261e-4ef5-b303-ca7f7163414e" "漢字練習問題" %}}、{{% resource_link "bd3a271f-d99f-40bc-a8eb-39fdb3623325" "漢字練習シート" %}}もダウンロードできます。とびらの教科書のビデオを見たい人は、下のイメージをクリックしてください。
+今学期は、「とびら」の第６課から第１０課まで勉強します。とびらのホームページは、[ここ](https://tobiraweb.9640.jp/)です。文法練習問題は、[ここ](https://tobiraweb.9640.jp/contents/%e6%96%87%e6%b3%95%e6%95%99%e6%9d%90/)からダウンロードできます。[漢字練習問題](https://tobiraweb.9640.jp/contents/%e6%bc%a2%e5%ad%97%e3%83%bb%e8%aa%9e%e5%bd%99%e6%95%99%e6%9d%90/%e6%bc%a2%e5%ad%97%e7%b7%b4%e7%bf%92%e5%95%8f%e9%a1%8c/)、[漢字練習シート](https://tobiraweb.9640.jp/contents/%e6%bc%a2%e5%ad%97%e3%83%bb%e8%aa%9e%e5%bd%99%e6%95%99%e6%9d%90/%e6%bc%a2%e5%ad%97%e7%b7%b4%e7%bf%92%e3%82%b7%e3%83%bc%e3%83%88/)もダウンロードできます。とびらの教科書のビデオを見たい人は、下のイメージをクリックしてください。
 
-{{% resource_link "8687dce0-7667-4083-8ed0-7d1f2fba0f21" "第６課: 日本人と宗教" %}}
+[第６課: 日本人と宗教](https://tobiraweb.9640.jp/video/%e7%ac%ac6%e8%aa%b2/)
 
-{{% resource_link "79b4829f-3c0b-4084-a771-3f8959cbb94a" "第７課: 日本のポップカルチャー" %}}
+[第７課: 日本のポップカルチャー](https://tobiraweb.9640.jp/video/%e7%ac%ac7%e8%aa%b2/)
 
-{{% resource_link "8533c09e-8346-4b25-af66-fd43f2e0da2d" "第８課: 日本の伝統芸能" %}}
+[第８課: 日本の伝統芸能](https://tobiraweb.9640.jp/video/%e7%ac%ac8%e8%aa%b2/)
 
-{{% resource_link "36f97a7c-961d-41a7-9610-27513a36e61c" "第９課: 日本の教育" %}}
+[第９課: 日本の教育](https://tobiraweb.9640.jp/video/%e7%ac%ac9%e8%aa%b2/)
 
-{{% resource_link "f3ab700c-29fb-45bb-8404-789924acca00" "第１０課: 日本の便利な店" %}}
+[第１０課: 日本の便利な店](https://tobiraweb.9640.jp/video/%e7%ac%ac10%e8%aa%b2/)
 
 Quizletにもいろいろな練習があります。下のサンプルを使ってみてください。ほかにも、漢字Quizletなどありますから、自分でさがして、練習してみてください。
 
-{{% resource_link "fac5f1eb-f374-4ab3-a7ae-338e90dab40e" "Lesson 6 単語 Flashcards" %}}
+[Lesson 6 単語 Flashcards](https://quizlet.com/pl/560889582/tobira-6-flash-cards/)
 
-{{% resource_link "f8d90547-74e8-466c-b2c4-20070300bd8c" "Lesson 7 単語 Flashcards" %}}
+[Lesson 7 単語 Flashcards](https://quizlet.com/pl/562640358/tobira-7-flash-cards/)
 
-{{% resource_link "2c69e487-68e1-4e7b-9266-442549c42a33" "Lesson 8 単語 Flashcards" %}}
+[Lesson 8 単語 Flashcards](https://quizlet.com/433401595/tobira-ch-8-flash-cards/)
 
-{{% resource_link "7f32762f-34b7-4eb2-81d5-2083e29ae037" "Lesson 9 単語 Flashcards" %}}
+[Lesson 9 単語 Flashcards](https://quizlet.com/446316032/tobira-ch-9-flash-cards/)
 
-{{% resource_link "31eeee98-1c2b-45cd-9aaf-ac11c98365af" "Lesson 10 単語 Flashcards" %}}
+[Lesson 10 単語 Flashcards](https://quizlet.com/jp/535069152/tobira-10-flash-cards/)
